@@ -1,1 +1,107 @@
-xx
+Tudo o que será preciso recolher acerca da empresa
+
+1. Empresa
+
+Nome da empresa
+Slogan
+Ano de fundação
+Setor principal
+Subsetor
+Número de colaboradores
+
+2. Contactos
+
+Telefone principal
+Telefone secundário
+Email
+Website atual
+Morada
+Código Postal
+Cidade
+Distrito
+País
+
+3. Redes Sociais
+
+Facebook
+Instagram
+LinkedIn
+TikTok
+YouTube
+Outras
+
+4. Horário
+
+Dias de funcionamento
+Horário
+Encerramentos
+
+5. Serviços
+
+Nome
+Pequena descrição
+Ordem de importância
+
+6. Produtos (caso existam)
+
+Nome
+Categoria
+Descrição
+
+7. Público-Alvo
+
+Empresas ou particulares
+Área geográfica
+Faixa etária
+Segmento
+
+8. Objetivos
+
+O website serve para:
+
+Gerar contactos
+Gerar chamadas
+Gerar pedidos de orçamento
+Divulgação de portefólio
+Mostrar catálogo
+Reservas
+Marcação de consultas
+Outro
+
+9. Branding
+
+Logótipo
+Cores
+Tipografia (opcional)
+Manual de marca (opcional)
+
+10. Fotografias
+
+Fachada
+Interior
+Equipa
+Produtos
+Serviços
+Viaturas
+Outras
+
+11. Conteúdo
+
+O cliente já possui?
+
+Texto institucional
+Texto dos serviços
+FAQ
+Testemunhos
+
+12. Concorrência
+
+Até 5 concorrentes.
+
+13. Websites de referência
+
+Até 5 websites.
+
+Não concorrentes.
+
+Apenas inspiração.
